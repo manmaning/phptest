@@ -1,0 +1,1 @@
+·şÎñÆ÷ÖØÆôÃüÁî£º/sbin/service crond start;/opt/lampp/lampp start
